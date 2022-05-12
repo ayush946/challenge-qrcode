@@ -1,0 +1,38 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 110px;
+
+}
+.attribution a {
+  color: #3e52a3;
+  margin: auto;
+}
+
+body{
+  background-color: #d6e2f0;
+  text-align: center;
+  font-size: 15px;
+}
+.big-box{
+  background-color: white;
+  border-radius: 15px;
+  height: 25%;
+  width: 15%;
+  padding: 20px;
+  margin: auto;
+  margin-top: 160px;
+}
+.qr-image{
+  border-radius: 15px;
+}
+
+.main-text{
+  font-family: Outfit;
+  font-weight: 700;
+
+}
+.bottom-text{
+  font-family: Outfit;
+  font-weight: 400;
+}
